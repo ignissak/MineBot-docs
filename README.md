@@ -23,6 +23,9 @@ Minecraft Discord bot made in Discord.js.
 - mb$potions - get all ways to get potions
 - mb$player - get player's skin and UUID
 - mb$server - get server's statistics
+- mb$status - get actual status of minecraft services
+- mb$wynn  - get player's statistics from WynnCraft
+ 
 
 - **Utility commands**
 - mb$bugtracker - send bug to developer
